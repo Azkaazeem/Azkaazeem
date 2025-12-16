@@ -9,8 +9,9 @@ Building modern, interactive web apps. Sharing experiments, learning, and projec
 ---
 
 ## Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/azka-azeem-70a74637b/))
-[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com](https://github.com/Azkaazeem))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azka-azeem-70a74637b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azkaazeem)
+
 
 ---
 
