@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62" width="500" />
-</p>
-
----
-
 ## 👩‍💻 About Me
 Building **modern, interactive, and user-friendly web apps** with a strong focus on clean UI & smooth UX.  
 I enjoy learning new technologies and turning creative ideas into real projects.
@@ -47,16 +41,17 @@ I enjoy learning new technologies and turning creative ideas into real projects.
 ### ⚙️ Tools & Backend
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="45" />
 </p>
+
 
 ### 🎨 Design
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="45" />
 </p>
+
 
 ---
 
@@ -72,3 +67,11 @@ I enjoy learning new technologies and turning creative ideas into real projects.
 ---
 
 ✨ *If you like my work, follow me & star my repositories.*
+
+---
+
+<p align="center">
+  <img src="https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62" width="500" />
+</p>
+
+---
