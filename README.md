@@ -71,7 +71,7 @@ I enjoy learning new technologies and turning creative ideas into real projects.
 ---
 
 <p align="center">
-  <img src="https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62" width="500" />
+  <img src="https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62" width="900" />
 </p>
 
 ---
