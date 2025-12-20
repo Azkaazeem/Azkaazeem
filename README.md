@@ -1,37 +1,74 @@
-# Hi, I'm Azka Azeem
-- Frontend Developer  
+# Hi, I'm Azka Azeem 👋
+### Frontend Developer | Creative Designer
 
 ---
 
-## About Me
-Building modern, interactive web apps. Sharing experiments, learning, and projects along the way.
+<p align="center">
+  <img src="https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62" width="500" />
+</p>
 
 ---
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azka-azeem-70a74637b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azkaazeem)
+## 👩‍💻 About Me
+Building **modern, interactive, and user-friendly web apps** with a strong focus on clean UI & smooth UX.  
+I enjoy learning new technologies and turning creative ideas into real projects.
 
+- 💻 Frontend Developer  
+- 🎨 Creative Designer  
+- 🚀 Always learning & improving  
+
+---
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/azka-azeem-70a74637b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Azkaazeem" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+  </a>
+</p>
 
 ---
 
-## Skills
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-FF2E5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=ai&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+## 🛠️ Skills
+
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" />
+</p>
+
+### ⚙️ Tools & Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="45" />
+</p>
+
+### 🎨 Design
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" width="45" />
+</p>
 
 ---
-![Coding](https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62)
 
+## 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azkaazeem&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azkaazeem&theme=tokyonight" />
+</p>
+
+---
+
+✨ *If you like my work, follow me & star my repositories.*
