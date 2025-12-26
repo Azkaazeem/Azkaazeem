@@ -1,9 +1,5 @@
 # 🇬🇧 Hello, I’m Azka Azeem | Frontend Architect & Creative Visionary
 
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/c2/25/2d/c2252da1ed9eed317f8a13416b2fa631.jpg" width="800" style="border-radius: 15px;" />
-</p>
-
 ## ✒️ About Me
 I am a meticulous **Frontend Developer** and **Creative Designer** dedicated to crafting bespoke digital experiences. My approach blends technical precision with aesthetic elegance, ensuring every web application I build is not only high-performing but also visually captivating.
 
@@ -64,6 +60,11 @@ I am always open to discussing pioneering projects and innovative design collabo
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/c2/25/2d/c2252da1ed9eed317f8a13416b2fa631.jpg" width="800" style="border-radius: 15px;" />
+</p>
+
 <p align="center">
   <i>"Code is poetry written in the language of logic."</i>
 </p>
