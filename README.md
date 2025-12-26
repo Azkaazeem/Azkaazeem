@@ -45,7 +45,7 @@ With a keen eye for **UI/UX excellence**, I transform complex concepts into seam
 
 ## 📊 Analytical Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azkaazeem&show_icons=true&theme=tokyonight&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azkaazeem&theme=tokyonight" width="400" />
 </p>
 
