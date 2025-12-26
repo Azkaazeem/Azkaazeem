@@ -1,7 +1,7 @@
 # 🇬🇧 Hello, I’m Azka Azeem | Frontend Architect & Creative Visionary
 
 <p align="center">
-  <img src="[https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62](https://i.pinimg.com/1200x/c2/25/2d/c2252da1ed9eed317f8a13416b2fa631.jpg)" width="800" style="border-radius: 15px;" />
+  <img src="https://i.pinimg.com/1200x/c2/25/2d/c2252da1ed9eed317f8a13416b2fa631.jpg" width="800" style="border-radius: 15px;" />
 </p>
 
 ## ✒️ About Me
