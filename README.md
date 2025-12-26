@@ -4,7 +4,7 @@
   <img src="https://image.lexica.art/md2_webp/8d753b19-a5a2-450a-a6d3-cf038bccbb62" width="800" style="border-radius: 15px;" />
 </p>
 
-## ✒️ Professional Narrative
+## ✒️ About Me
 I am a meticulous **Frontend Developer** and **Creative Designer** dedicated to crafting bespoke digital experiences. My approach blends technical precision with aesthetic elegance, ensuring every web application I build is not only high-performing but also visually captivating.
 
 With a keen eye for **UI/UX excellence**, I transform complex concepts into seamless, user-centric interfaces. I thrive on innovation and am constantly refining my craft to stay at the forefront of modern web standards.
