@@ -43,7 +43,7 @@ I blend technical precision with aesthetic elegance, ensuring every web applicat
 
 | **POST App (Mini Hackathon)** | **Luxora (Modern E-commerce)** |
 | :---: | :---: |
-| <a href="https://azkaazeem.github.io/Javascript-Mini-Hackathon/"><img src="./image_3513c9.png" alt="Post App" width="400px" /></a> | <a href="https://azkaazeem.github.io/modern-fullstack-website/"><img src="./image_34c0bd.png" alt="Luxora Website" width="400px" /></a> |
+| <a href="https://azkaazeem.github.io/Javascript-Mini-Hackathon/"><img src="1.png" alt="Post App" width="400px" /></a> | <a href="https://azkaazeem.github.io/modern-fullstack-website/"><img src="2.png" alt="Luxora Website" width="400px" /></a> |
 | A dynamic social post application featuring user welcome screens and interactive feeds. | A full-stack style e-commerce platform with category filtering, cart logic, and modern UI. |
 | [🔴 Live Demo](https://azkaazeem.github.io/Javascript-Mini-Hackathon/) | [🔴 Live Demo](https://azkaazeem.github.io/modern-fullstack-website/) |
 
