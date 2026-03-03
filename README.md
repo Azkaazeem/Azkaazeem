@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/bda4128e-f110-4c20-9d72-f9ee429db934)
+![image](https://github.com/user-attachments/assets/aap-ka-naya-code)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
