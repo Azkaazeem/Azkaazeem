@@ -1,4 +1,4 @@
-![banner]([https://github.com/user-attachments/assets/bda4128e-f110-4c20-9d72-f9ee429db934](https://lh3.googleusercontent.com/gg-dl/AOI_d__0oX0Fe5s1IZ9x8kp9RMWDJ8MLrX2VfOMpt4EzzL5zV95CGznuLKZOfiIz7-TBk7Vlp4_1oSMR0-VsOv29bP7BdZxSi6acMBqxc3QnJVkH_Jv8Eq5whopCMThvp8ZvDjyDJpCwITs9ax4WY6WA4IcSXkcIN-CFZ2URlNYgXmeAZ7OVWA=s1024-rj?authuser=1))
+![banner](https://github.com/user-attachments/assets/bda4128e-f110-4c20-9d72-f9ee429db934)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
