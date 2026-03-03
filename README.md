@@ -1,9 +1,6 @@
-![github3](https://github.com/user-attachments/assets/0e6bc6dc-6f76-4c5b-a652-91a129360b57)
-
-
+![github3](https://github.com/user-attachments/assets/28185a2e-07f8-4239-ad22-88d31d52a108)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 👨‍💻 I'm a Front end Developer & Graphic Designer<br>
