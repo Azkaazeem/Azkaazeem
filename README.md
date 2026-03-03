@@ -26,12 +26,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <a href="[https://kickstop-ray.vercel.app](https://azkaazeem.github.io/My-Portfolio/)" target="_blank">
-    <img src="<img width="1669" height="910" alt="github1" src="https://github.com/user-attachments/assets/92a6ea5e-1e87-46ef-b93c-f4ae97fa5cd1" />
-" alt="Kickstop" height="270" width="48%"/>
+    <img width="1669" height="910" alt="github1" src="https://github.com/user-attachments/assets/432b651f-d951-44d1-82c7-bfd40baed2ee" />
   </a>
   &nbsp;
-  <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/32d7ad66-8134-43ee-baaf-ad2ab445f270" alt="Pomodoro AI" height="270" width="48%"/>
+  <a href="https://azkaazeem.github.io/Javascript-Mini-Hackathon/home.html#" target="_blank">
+    <img width="1654" height="1075" alt="github2" src="https://github.com/user-attachments/assets/6847fba6-8139-48b3-8a1f-2c41cda32493" />
+
   </a>
 </div>
 <br>
