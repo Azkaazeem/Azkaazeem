@@ -4,7 +4,7 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 👨‍💻 I'm a Front end Developer & Graphic Designer<br>
-🧠 Experienced in: Html , Css , , Bootstrap , JavaScript , Supabase , React , Tailwind Css<br>
+🧠 Experienced in: Html , Css , Bootstrap , JavaScript , Supabase , React , Tailwind Css<br>
 📚 Education: High Achiever In Secondary Education Currently learn O-Level in Science<br>
 🔐 Specializing in: Frontend Technologies , Backend tools and Frameworks , Design Tool<br>
 🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>
