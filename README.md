@@ -1,4 +1,5 @@
-<img width="2816" height="1536" alt="github3" src="https://github.com/user-attachments/assets/ac1a2bbd-f2e0-49e1-b194-c0758c77ec0a" />
+![github3](https://github.com/user-attachments/assets/f2618f5c-2de3-4ee4-9873-03cc5ec5997c)
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
