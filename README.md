@@ -1,74 +1,48 @@
+![banner](https://github.com/user-attachments/assets/bda4128e-f110-4c20-9d72-f9ee429db934)
+<img src="https://lh3.googleusercontent.com/gg-dl/AOI_d__0oX0Fe5s1IZ9x8kp9RMWDJ8MLrX2VfOMpt4EzzL5zV95CGznuLKZOfiIz7-TBk7Vlp4_1oSMR0-VsOv29bP7BdZxSi6acMBqxc3QnJVkH_Jv8Eq5whopCMThvp8ZvDjyDJpCwITs9ax4WY6WA4IcSXkcIN-CFZ2URlNYgXmeAZ7OVWA=s1024-rj?authuser=1" width="100%">
+
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+👨‍💻 I'm a Front end Developer & Graphic Designer<br>
+🧠 Experienced in: Html , Css , , Bootstrap , JavaScript , Supabase , React , Tailwind Css<br>
+📚 Education: High Achiever In Secondary Education Currently learn O-Level in Science<br>
+🔐 Specializing in: Frontend Technologies , Backend tools and Frameworks , Design Tool<br>
+🎨 Design Passion: Crafting modern, responsive, and user-friendly web designs <br>
+🚀 Currently Learning: Mastering backend development on my journey to becoming a Full-Stack Developer.<br>
+📫 How to reach me: azkaazeem805@gmail.com<br><br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skill Set***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+| Languages  | Frontend  | Backend | Frameworks | Databases | DevOps | Others |
+| ------------- |:-------------:|:-------------:| ------------- |:-------------:|:-------------:|:-------------:|
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) | ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) | | ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) | ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) |
+| | ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) |
+| | ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) | | | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br>
+
+
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Featured Projects***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Azka+Azeem;Frontend+Developer;Creative+Designer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <a href="https://kickstop-ray.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c4c59af5-3465-451c-9b61-6475747b74c4" alt="Kickstop" height="270" width="48%"/>
+  </a>
+  &nbsp;
+  <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/32d7ad66-8134-43ee-baaf-ad2ab445f270" alt="Pomodoro AI" height="270" width="48%"/>
+  </a>
 </div>
+<br>
 
-<div align="center">
-  <h3>I am a meticulous Frontend Developer and Creative Designer dedicated to crafting bespoke digital experiences.</h3>
-</div>
-
----
-
-### 👩‍💻 About Me
-
-I blend technical precision with aesthetic elegance, ensuring every web application I build is not only high-performing but also visually captivating. With a keen eye for **UI/UX excellence**, I transform complex concepts into seamless, user-centric interfaces. I thrive on innovation and am constantly refining my craft to stay at the forefront of modern web standards.
-
-- 💎 **Expertise:** Crafting responsive, high-performance web applications.
-- 🎨 **Design Philosophy:** Minimalist, functional, and user-focused.
-- 📈 **Current Focus:** Advanced React patterns & sophisticated Backend-as-a-Service (BaaS) integrations.
-
----
-
-### 🚀 Tech Stack & Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</div>
-
----
-
-### 🌟 Featured Projects
-
-| **POST App (Mini Hackathon)** | **Luxora (Modern E-commerce)** |
-| :---: | :---: |
-| <a href="https://azkaazeem.github.io/Javascript-Mini-Hackathon/"><img src="1.png" alt="Post App" width="400px" /></a> | <a href="https://azkaazeem.github.io/modern-fullstack-website/"><img src="2.png" alt="Luxora Website" width="400px" /></a> |
-| A dynamic social post application featuring user welcome screens and interactive feeds. | A full-stack style e-commerce platform with category filtering, cart logic, and modern UI. |
-| [🔴 Live Demo](https://azkaazeem.github.io/Javascript-Mini-Hackathon/) | [🔴 Live Demo](https://azkaazeem.github.io/modern-fullstack-website/) |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azkaazeem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Azka's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkaazeem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azkaazeem&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-snake.vercel.app/api?username=azkaazeem&bg_color=0D1117&color_snake=36BCF7&color_dots=161B22" />
-</div>
-
-<div align="center">
-  <br/>
-  <i>Let's connect and build something amazing together!</i>
-</div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/rayku-dev/rayku-dev/output/snake.svg" alt="Snake animation" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
