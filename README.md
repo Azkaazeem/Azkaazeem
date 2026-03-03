@@ -25,8 +25,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Featured Projects***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-  <a href="https://kickstop-ray.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c4c59af5-3465-451c-9b61-6475747b74c4" alt="Kickstop" height="270" width="48%"/>
+  <a href="[https://kickstop-ray.vercel.app](https://azkaazeem.github.io/My-Portfolio/)" target="_blank">
+    <img src="<img width="1669" height="910" alt="github1" src="https://github.com/user-attachments/assets/92a6ea5e-1e87-46ef-b93c-f4ae97fa5cd1" />
+" alt="Kickstop" height="270" width="48%"/>
   </a>
   &nbsp;
   <a href="https://pomodoroai-ray.vercel.app/" target="_blank">
