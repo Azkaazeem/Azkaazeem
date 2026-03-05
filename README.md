@@ -1,4 +1,4 @@
-![github3](https://github.com/user-attachments/assets/2b3121ea-549e-4556-8813-0ba8ffdac53d)
+<img src="https://github.com/user-attachments/assets/0e6bc6dc-6f76-4c5b-a652-91a129360b57" width="100%" alt="Azka Azeem Banner">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
