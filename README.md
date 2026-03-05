@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0e6bc6dc-6f76-4c5b-a652-91a129360b57" width="100%" alt="Azka Azeem Banner">
+<img src="github3.gif" width="100%" alt="Azka Azeem Banner">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
