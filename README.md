@@ -40,3 +40,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://raw.githubusercontent.com/rayku-dev/rayku-dev/output/snake.svg" alt="Snake animation" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 🎮 Let's Play Connect 4!
+Click the board below to play the game I built:
+
+[![Connect 4 Game](URL_OF_YOUR_GIF_HERE)](https://azkaazeem.github.io/Connect4-Game)
