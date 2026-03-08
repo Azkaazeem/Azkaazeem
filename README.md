@@ -1,5 +1,5 @@
 ![github5](https://github.com/user-attachments/assets/4c4cd0b9-cdec-40cc-9a7b-28370b86324a)
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="10000px">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="1000px">
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
