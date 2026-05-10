@@ -1,0 +1,30 @@
+<svg width="900" height="95" viewBox="0 0 900 95" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated greeting</title>
+  <desc id="desc">A pink animated greeting banner with text sliding across the screen.</desc>
+  <defs>
+    <linearGradient id="pink-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a0718"/>
+      <stop offset="42%" stop-color="#ff5ca8"/>
+      <stop offset="100%" stop-color="#ffc2df"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="95" rx="18" fill="url(#pink-bg)"/>
+  <rect x="8" y="8" width="884" height="79" rx="14" fill="#0d1117" opacity="0.42"/>
+  <circle cx="55" cy="47" r="32" fill="#ffffff" opacity="0.12"/>
+  <circle cx="835" cy="48" r="38" fill="#ffffff" opacity="0.10"/>
+
+  <g filter="url(#soft-glow)">
+    <text y="58" x="940" fill="#fff5fb" font-family="Segoe UI, Fira Code, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1">
+      Thanks for stopping by, keep creating and keep shining &#x1FA77;
+      <animate attributeName="x" from="940" to="-780" dur="11s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

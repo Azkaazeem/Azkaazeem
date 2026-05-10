@@ -117,4 +117,10 @@
   <img width="96%" src="https://raw.githubusercontent.com/rayku-dev/rayku-dev/output/snake.svg" alt="Snake animation" />
 </div>
 
+<br>
+
+<div align="center">
+  <img width="96%" src="assets/greeting-marquee.svg" alt="Animated greeting banner" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff5ca8&section=footer" width="100%">
