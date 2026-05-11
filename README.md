@@ -26,19 +26,6 @@
 | | | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | |
 | | | ![REST API](https://img.shields.io/badge/REST%20API-6C63FF?style=for-the-badge&logo=postman&logoColor=white) | |
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;***Featured Projects***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-  <a href="https://azkaazeem.github.io/My-Portfolio/" target="_blank">
-    <img height="270" width="48%" alt="My Portfolio preview" src="https://github.com/user-attachments/assets/432b651f-d951-44d1-82c7-bfd40baed2ee" />
-  </a>
-  &nbsp;
-  <a href="https://azkaazeem.github.io/Javascript-Mini-Hackathon/home.html#" target="_blank">
-    <img height="270" width="48%" alt="Javascript Mini Hackathon preview" src="https://github.com/user-attachments/assets/6847fba6-8139-48b3-8a1f-2c41cda32493" />
-  </a>
-</div>
-
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Profile Stats***
