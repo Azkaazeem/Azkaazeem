@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="3-1.gif" alt="Azka Azeem banner" width="100%" />
+  <table cellpadding="4" cellspacing="0">
+    <tr>
+      <td bgcolor="#ff5ca8">
+        <img src="3-1.gif" alt="Azka Azeem banner" width="100%" />
+      </td>
+    </tr>
+  </table>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2600&pause=850&color=FF5CA8&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Graphic+Designer;O-Levels+Science+Group+Student" alt="Animated profile intro" />
 </div>
 
@@ -18,26 +24,51 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp;***Skill Set***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-| Languages | Frontend & Frameworks | Backend / Database | Creative & Design |
-| :---: | :---: | :---: | :---: |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Node.js](https://img.shields.io/badge/node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-FF5CA8?style=for-the-badge&logo=express&logoColor=white) | ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
-| | | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | |
-| | | ![REST API](https://img.shields.io/badge/REST%20API-6C63FF?style=for-the-badge&logo=postman&logoColor=white) | |
+<table align="center" cellpadding="4" cellspacing="0">
+  <tr>
+    <td bgcolor="#ff5ca8">
+      <table>
+        <tr>
+          <th>Languages</th>
+          <th>Frontend & Frameworks</th>
+          <th>Backend / Database</th>
+          <th>Creative & Design</th>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/express.js-FF5CA8?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" /></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></td>
+          <td align="center"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" /></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td align="center"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td></td>
+          <td align="center"><img src="https://img.shields.io/badge/REST%20API-6C63FF?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp;***Featured Projects***
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-  <a href="https://azkaazeem.github.io/My-Portfolio/" target="_blank">
-    <img height="270" width="48%" alt="My Portfolio preview" src="https://github.com/user-attachments/assets/432b651f-d951-44d1-82c7-bfd40baed2ee" />
-  </a>
-  &nbsp;
-  <a href="https://azkaazeem.github.io/Javascript-Mini-Hackathon/home.html#" target="_blank">
-    <img height="270" width="48%" alt="Javascript Mini Hackathon preview" src="https://github.com/user-attachments/assets/6847fba6-8139-48b3-8a1f-2c41cda32493" />
-  </a>
-</div>
 
 <br>
 
@@ -87,12 +118,20 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
-  <a href="https://github.com/Azkaazeem/My-Portfolio">
-    <img width="48%" alt="My Portfolio repository preview" src="https://github.com/user-attachments/assets/432b651f-d951-44d1-82c7-bfd40baed2ee" />
-  </a>
-  <a href="https://github.com/Azkaazeem/Javascript-Mini-Hackathon">
-    <img width="48%" alt="Javascript Mini Hackathon repository preview" src="https://github.com/user-attachments/assets/6847fba6-8139-48b3-8a1f-2c41cda32493" />
-  </a>
+  <table cellpadding="4" cellspacing="0">
+    <tr>
+      <td bgcolor="#ff5ca8">
+        <a href="https://github.com/Azkaazeem/My-Portfolio">
+          <img width="100%" alt="My Portfolio repository preview" src="https://github.com/user-attachments/assets/432b651f-d951-44d1-82c7-bfd40baed2ee" />
+        </a>
+      </td>
+      <td bgcolor="#ff5ca8">
+        <a href="https://github.com/Azkaazeem/Javascript-Mini-Hackathon">
+          <img width="100%" alt="Javascript Mini Hackathon repository preview" src="https://github.com/user-attachments/assets/6847fba6-8139-48b3-8a1f-2c41cda32493" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
