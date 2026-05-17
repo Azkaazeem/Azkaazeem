@@ -2,7 +2,7 @@
   <table cellpadding="4" cellspacing="0">
     <tr>
       <td>
-        <!-- <img src="./assets/Untitled design.gif" alt="Azka Azeem banner" width="100%" /> -->
+        <img src="./assets/Untitled design.gif" alt="Azka Azeem banner" width="100%" />
       </td>
     </tr>
   </table>
