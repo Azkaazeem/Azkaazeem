@@ -1,7 +1,7 @@
 <div align="center">
   <table cellpadding="4" cellspacing="0">
     <tr>
-      <td bgcolor="#ff5ca8">
+      <td>
         <img src="./Untitled design.gif" alt="Azka Azeem banner" width="100%" />
       </td>
     </tr>
@@ -26,7 +26,7 @@
 
 <table align="center" cellpadding="4" cellspacing="0">
   <tr>
-    <td bgcolor="#ff5ca8">
+    <td>
       <table>
         <tr>
           <th>Languages</th>
