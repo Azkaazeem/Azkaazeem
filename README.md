@@ -1,3 +1,7 @@
+![Dark mode stats](https://github-readme-stats.vercel.app/api?username=Azkaazeem&theme=radical#gh-dark-mode-only)
+
+![Light mode stats](https://github-readme-stats.vercel.app/api?username=Azkaazeem&theme=default#gh-light-mode-only)
+
 <div align="center">
   <table cellpadding="4" cellspacing="0" align="center">
     <tr>
