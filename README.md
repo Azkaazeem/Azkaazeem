@@ -1,210 +1,218 @@
 <div align="center">
-  <table cellpadding="4" cellspacing="0" align="center">
-    <tr>
-      <td>
-      <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-        <img src="./assets/Untitled design.gif" alt="Azka Azeem banner" width="100%" />
-        <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-      </td>
-    </tr>
-  </table>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="./assets/Untitled design.gif" alt="Azka Azeem Banner" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5CA8&center=true&vCenter=true&width=800&lines=Alpha+Full-Stack+Developer;MERN+Stack+Developer;Agentic+AI+Learner;Graphic+%26+UI+Designer;O-Level+Student" alt="Typing SVG" />
+  <br/><br/>
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  <a href="https://github.com/Azkaazeem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5CA8&center=true&vCenter=true&width=460&lines=MERN+Stack+Developer;Prompt+Engineer+%26+AI+Learner;UI%2FUX+%26+Graphic+Designer;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
-  <br/>
-  
-  *Crafting modern, beautiful, and highly scalable web applications.* 🖤🩷
-</div>
+  <br/><br/>
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff5ca8&section=header" width="100%">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Azkaazeem&label=Profile%20Views&color=ff5ca8&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+    <a href="https://github.com/Azkaazeem?tab=followers"><img src="https://img.shields.io/github/followers/Azkaazeem?style=for-the-badge&label=Followers&logo=github&labelColor=0d1117&color=ff5ca8" alt="GitHub Followers" /></a>
+    <a href="https://github.com/Azkaazeem?tab=repositories"><img src="https://img.shields.io/github/stars/Azkaazeem?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Total%20Stars&logo=github&labelColor=0d1117&color=ff5ca8" alt="Total Stars" /></a>
+  </p>
+
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  <p align="center">
+    <em>Architecting scalable web applications, robust backend systems, and intelligent AI workflows.</em>
+  </p>
+
+  <br/>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  <img src="./assets/greeting-marquee.svg" width="100%" alt="Animated Greeting Banner" />
+</div>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;**_About Me_**
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+Full-Stack Developer, Prompt Engineer, and UI/UX Designer dedicated to building high-performance web applications and intuitive digital experiences.
 
-&#128105;&#8205;&#128187; **I'm a Full-Stack (MERN) Developer & Graphic Designer**<br>
-&#129504; **Experienced in:** HTML, CSS, Bootstrap, JavaScript (ES5/ES6), TypeScript, Supabase, React, Tailwind CSS<br>
-&#128218; **Education:** High Achiever In Secondary Education, Currently learning O-Level in Science<br>
-&#128272; **Specializing in:** Frontend Technologies, Backend Tools/Frameworks, and Design Tools<br>
-&#127912; **Design Passion:** Crafting modern, responsive, and user-friendly web designs<br>
-&#128640; **Currently Learning:** Mastering backend development and exploring **Agentic AI** on my journey.<br>
-📬 **How to reach me:** [azkaazeem804@gmail.com](mailto:azkaazeem805@gmail.com)
+- $\color{#FF5CA8}\textbf{Core Specialization:}$ Full-Stack Web Development (MERN Stack) & Agentic AI Architecture
+- $\color{#00D2FF}\textbf{Frontend Engineering:}$ React.js, TypeScript, Next.js, Redux Toolkit, Tailwind CSS
+- $\color{#A371F7}\textbf{Backend and Databases:}$ Node.js, Express.js, MongoDB, PostgreSQL, Supabase, RESTful APIs
+- $\color{#00F5D4}\textbf{Artificial Intelligence:}$ Prompt Engineering, Autonomous AI Agents, LLM Orchestration
+- $\color{#FF85A1}\textbf{UI/UX and Creative Suite:}$ Figma, Adobe Photoshop, Adobe Illustrator, Canva
+- $\color{#FFD166}\textbf{Education and Credentials:}$ O-Level in Science; Professional tracks with SMIT, Panaversity, and Cisco
+- $\color{#4CC9F0}\textbf{Location:}$ Karachi, Pakistan
+- $\color{#F72585}\textbf{Languages:}$ English (Professional Proficiency), Urdu (Native)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;**_Skill Set & Expertise_**
-
-<table align="center" style="width: 100%; border-collapse: collapse;">
-  <tr align="center">
-    <th width="25%"><b>Languages</b></th>
-    <th width="25%"><b>Frontend & Frameworks</b></th>
-    <th width="25%"><b>Backend / Database</b></th>
-    <th width="25%"><b>Creative & Design</b></th>
-  </tr>
-  <tr align="center" valign="top">
-    <td>
-      <br/>
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF5CA8" />
-    </td>
-    <td>
-      <br/>
-      <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=FF5CA8" />
-    </td>
-    <td>
-      <br/>
-      <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF5CA8" />
-    </td>
-    <td>
-      <br/>
-      <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator&logoColor=FF5CA8" /><br/><br/>
-      <img src="https://img.shields.io/badge/MS_Paint-000000?style=for-the-badge&logo=microsoft&logoColor=FF5CA8" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">&nbsp;**_Featured Projects_**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">&nbsp;**_Tech Stack & Tooling_**
 
 <div align="center">
-  <table border="0" width="100%" align="center">
-    <!-- <tr>
-      <td width="50%" align="center">
-        <h3>✨ Project 1: MERN Application</h3>
-        <p>A full-stack modern solution built with React, Node, and MongoDB.</p>
-        <br/>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge" alt="Demo"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Code"></a>
-      </td>
-      <td width="50%" align="center">
-        <h3>✨ Project 2: UI/UX Masterpiece</h3>
-        <p>A stunning, user-friendly frontend design system.</p>
-        <br/>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge" alt="Demo"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Code"></a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>✨ Project 3: Agentic AI Assistant</h3>
-        <p>A Python-based AI tool to automate tasks intelligently.</p>
-        <br/>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge" alt="Demo"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Code"></a>
-      </td>
-      <td width="50%" align="center">
-        <h3>✨ Project 4: Full-Stack Dashboard</h3>
-        <p>Data visualization using React, Tailwind CSS, and Database.</p>
-        <br/>
-        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge" alt="Demo"></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Code"></a>
-      </td>
-    </tr>-->
-        <tr>
-      <td width="50%" align="center">
-        <h3>✨ Project 1: Complete Authentication and CRUD</h3>
-        <p>----------</p>
-        <img src="./assets/1.png" style="border:1px pink solid">
-        <br/>
-        <a href="https://complete-ten-classes-practice-memb.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge" alt="Demo"></a>
-        <a href="https://github.com/Azkaazeem/COMPLETE_TEN_CLASSES_PRACTICE"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Code"></a>
-      </td>
-      <td width="50%" align="center">
-        <h3>✨ Project 2: My personal portfolio</h3>
-        <p>----------</p>
-        <img src="./assets/2.png" style="border:1px pink solid">
-        <br/>
-        <a href="https://azkaazeem.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge" alt="Demo"></a>
-        <a href="https://github.com/Azkaazeem/My-Portfolio"><img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Code"></a>
-      </td>
-    </tr> -->
-  </table>
+
+#### Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+#### Backend & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### AI & Intelligent Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF5CA8?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7928CA?style=for-the-badge&logo=python&logoColor=white" alt="Agentic AI" />
+</p>
+
+#### UI/UX & Creative Suite
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+#### DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 </div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**_GitHub Stats & Activity_**
-
-<br>
-<div align="center">
-  <img src="https://img.shields.io/github/stars/Azkaazeem?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=GitHub%20Stars&logo=github&labelColor=0d1117&color=ff5ca8" alt="Azka Azeem GitHub stars" />
-  <img src="https://img.shields.io/github/followers/Azkaazeem?style=for-the-badge&label=Followers&logo=github&labelColor=0d1117&color=ff8cc8" alt="Azka Azeem GitHub followers" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azkaazeem&theme=radical" alt="Azka Azeem GitHub profile summary" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azkaazeem&theme=radical" alt="Top languages by repo" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azkaazeem&theme=radical" alt="Top languages by commit" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Azkaazeem&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&border_color=ff5ca8&bg_color=0d1117&title_color=ff5ca8&text_color=ffe4f1&icon_color=ff5ca8&custom_title=Azka's%20GitHub%20Stars%20%26%20Stats" alt="Azka Azeem GitHub stars and stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Azkaazeem&theme=radical&hide_border=false&border=ff5ca8&ring=ff5ca8&fire=ff8cc8&currStreakLabel=ff5ca8" alt="Azka Azeem GitHub streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azkaazeem&bg_color=0d1117&color=ffe4f1&line=ff5ca8&point=ff8cc8&area=true&area_color=ff5ca8&hide_border=false&border_color=ff5ca8" alt="Azka Azeem contribution activity graph" />
-</div>
-
-<br>
-<br>
-<br>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<div align="center">
-  <a href="mailto:azkaazeem804@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-000000?style=for-the-badge&logo=gmail&logoColor=FF5CA8" alt="Email" />
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">&nbsp;**_Certifications & Training_**
+
+| Certification | Issuing Organization | Credential |
+| :--- | :--- | :--- |
+| **Introduction to Modern AI** | Cisco Networking Academy | ![](https://img.shields.io/badge/Verified-Cisco-00D2FF?style=flat-square) |
+| **JavaScript Essentials 1 & 2** | Cisco Networking Academy / JS Institute | ![](https://img.shields.io/badge/Verified-Cisco-FF5CA8?style=flat-square) |
+| **HTML & CSS Essentials** | Cisco Networking Academy | ![](https://img.shields.io/badge/Verified-Cisco-00F5D4?style=flat-square) |
+| **Techno Kids (Batch-6) — Basic Computer Course** | Saylani Mass IT Training (SMIT) | ![](https://img.shields.io/badge/Certified-SMIT-FFD166?style=flat-square) |
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35">&nbsp;**_Featured Projects_**
+
+#### 01. Complete Authentication & CRUD Application
+> Production-ready full-stack authentication system featuring JWT authentication, session handling, protected API routing, and complete CRUD functionality.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/JWT_Auth-FF5CA8?style=flat-square&logoColor=white" alt="JWT" />
+</p>
+
+<p align="center">
+  <img src="./assets/1.png" alt="Complete Authentication & CRUD Demo" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://complete-ten-classes-practice-memb.vercel.app/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge&logoColor=FFFFFF" alt="Live Demo" />
   </a>
-  <a href="https://www.linkedin.com/in/azkaazeem/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF5CA8" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://github.com/Azkaazeem/COMPLETE_TEN_CLASSES_PRACTICE" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Source Code" />
+  </a>
+</p>
+
+<br/>
+
+#### 02. Personal Developer Portfolio
+> Custom-designed developer showcase platform integrating responsive UI/UX principles, modern CSS animations, and modular code architecture.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF5CA8?style=flat-square&logo=figma&logoColor=white" alt="UI/UX" />
+</p>
+
+<p align="center">
+  <img src="./assets/2.png" alt="Personal Portfolio Showcase" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://azkaazeem.github.io/PORTFOLIO_02/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge&logoColor=FFFFFF" alt="Live Demo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Azkaazeem/My-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Source Code" />
+  </a>
+</p>
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**_GitHub Analytics & Activity_**
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Azkaazeem&show_icons=true&hide_border=false&border_color=ff5ca8&bg_color=0d1117&title_color=ff5ca8&icon_color=ff5ca8&text_color=e6edf3" alt="Azka Azeem GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=Azkaazeem&theme=radical&hide_border=false&border=ff5ca8&background=0d1117&ring=ff5ca8&fire=ff5ca8&currStreakLabel=ff5ca8&sideNums=ff5ca8&sideLabels=e6edf3&dates=8b949e" alt="Azka Azeem GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Azkaazeem&layout=compact&hide_border=false&border_color=ff5ca8&bg_color=0d1117&title_color=ff5ca8&text_color=e6edf3" alt="Top Languages" />
+</div>
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### <img src="https://media.giphy.com/media/mG0AAdfGlflbh1AnQn/giphy.gif" width="35">&nbsp;**_Contribution Snake_**
+
+<div align="center">
+  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Pink GitHub Contribution Grid Snake" width="100%" />
+</div>
+
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35">&nbsp;**_Connect & Collaborate_**
+
+<div align="center">
+  <p>Interested in collaborating or discussing full-stack and AI opportunities? Feel free to connect.</p>
+
+  <p align="center">
+    <a href="mailto:azkaazeem804@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/azkaazeem/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Azkaazeem">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <br/>
+   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  <a href="https://github.com/Azkaazeem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF5CA8&center=true&vCenter=true&width=420&lines=Thanks+for+visiting!;Let%27s+connect+and+collaborate" alt="Typing SVG Footer" />
   </a>
 </div>
-
-
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35">&nbsp;***Contribution Snake***
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Azkaazeem/Azkaazeem/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Azkaazeem/Azkaazeem/output/github-contribution-grid-snake.svg">
-    <img width="96%" src="https://raw.githubusercontent.com/Azkaazeem/Azkaazeem/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </picture>
-</div> -->
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=ff5ca8&section=footer" width="100%">
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF5CA8&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Drop+a+follow+if+you+like+my+work+🩷" alt="Typing SVG" />
-</div>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
