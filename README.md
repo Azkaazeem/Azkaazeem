@@ -112,53 +112,55 @@ Full-Stack Developer, Prompt Engineer, and UI/UX Designer dedicated to building 
 
 ### <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35">&nbsp;**_Featured Projects_**
 
-#### 01. Complete Authentication & CRUD Application
-> Production-ready full-stack authentication system featuring JWT authentication, session handling, protected API routing, and complete CRUD functionality.
+#### 01. NovaDesk — AI Civic Support & Municipal Operations Hub
+> Full-stack civic management platform built for MERN Hackathon 2026. Features automated AI triage, real-time ticket tracking, GIS municipal telemetry, and an integrated interactive AI Assistant chatbot for instant citizen resolution.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/AI_Assistant_Agent-FF5CA8?style=flat-square&logo=openai&logoColor=white" alt="AI Agent" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JWT_Auth-FF5CA8?style=flat-square&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Full_Stack_Hackathon-7928CA?style=flat-square&logoColor=white" alt="Hackathon" />
 </p>
 
 <p align="center">
-  <img src="./assets/1.png" alt="Complete Authentication & CRUD Demo" width="100%" />
+  <img src="./assets/1.png" alt="NovaDesk AI Civic Support Demo" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://complete-ten-classes-practice-memb.vercel.app/dashboard" target="_blank">
+  <a href="https://mern-final-hackathon-2026-oqir.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge&logoColor=FFFFFF" alt="Live Demo" />
   </a>
   &nbsp;
-  <a href="https://github.com/Azkaazeem/COMPLETE_TEN_CLASSES_PRACTICE" target="_blank">
+  <a href="https://github.com/Azkaazeem/MERN_FINAL_HACKATHON_2026" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Source Code" />
   </a>
 </p>
 
 <br/>
 
-#### 02. Personal Developer Portfolio
-> Custom-designed developer showcase platform integrating responsive UI/UX principles, modern CSS animations, and modular code architecture.
+#### 02. Full-Stack Developer Portfolio & Autonomous AI Agent Hub
+> High-performance developer portfolio featuring a motion-rich red-on-black cyberpunk interface, smooth reactive architecture, and an embedded autonomous AI Agent ("Azka's Agent") capable of answering questions about skills, credentials, and projects in real time.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF5CA8?style=flat-square&logo=figma&logoColor=white" alt="UI/UX" />
+  <img src="https://img.shields.io/badge/Full_Stack_React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Azka's_AI_Agent-FF5CA8?style=flat-square&logo=openai&logoColor=white" alt="AI Agent" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Cyberpunk_Motion_UI-E34F26?style=flat-square&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
 
 <p align="center">
-  <img src="./assets/2.png" alt="Personal Portfolio Showcase" width="100%" />
+  <img src="./assets/2.png" alt="Personal Portfolio with AI Agent Showcase" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://azkaazeem.github.io/PORTFOLIO_02/" target="_blank">
+  <a href="https://portfolio-03-tan.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-FF5CA8?style=for-the-badge&logoColor=FFFFFF" alt="Live Demo" />
   </a>
   &nbsp;
-  <a href="https://github.com/Azkaazeem/My-Portfolio" target="_blank">
+  <a href="https://github.com/Azkaazeem/PORTFOLIO_04" target="_blank">
     <img src="https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=FF5CA8" alt="Source Code" />
   </a>
 </p>
