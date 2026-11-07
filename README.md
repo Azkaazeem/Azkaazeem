@@ -172,7 +172,7 @@ Full-Stack Developer, Prompt Engineer, and UI/UX Designer dedicated to building 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Azkaazeem&show_icons=true&hide_border=false&border_color=ff5ca8&bg_color=0d1117&title_color=ff5ca8&icon_color=ff5ca8&text_color=e6edf3" alt="Azka Azeem GitHub Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=Azkaazeem&theme=radical&hide_border=false&border=ff5ca8&background=0d1117&ring=ff5ca8&fire=ff5ca8&currStreakLabel=ff5ca8&sideNums=ff5ca8&sideLabels=e6edf3&dates=8b949e" alt="Azka Azeem GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=Azkaazeem&theme=radical&hide_border=false&border=ff5ca8&background=0d1117&ring=ff5ca8&fire=ff5ca8&currStreakLabel=ff5ca8&sideNums=ff5ca8&sideLabels=e6edf3&dates=8b949e" alt="Azka Azeem GitHub Streak" />
 </div>
 
 <br/>
